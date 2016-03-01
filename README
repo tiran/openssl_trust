@@ -1,0 +1,7 @@
+OpenSSL unit test for X509_TRUST_REJECTED bug
+---------------------------------------------
+
+https://bugzilla.redhat.com/show_bug.cgi?id=1300655
+
+https://twitter.com/ChristianHeimes/status/704678057995603978
+
